@@ -1,0 +1,157 @@
+Hemoglobin:
+Hemoglobin is a protein in red blood cells that carries oxygen throughout the body.
+Low hemoglobin levels may indicate anemia, blood loss, nutritional deficiency, or chronic disease.
+Symptoms may include fatigue, weakness, pale skin, and shortness of breath.
+High hemoglobin may occur due to dehydration, smoking, lung disease, or living at high altitude.
+
+
+RBC:
+Red Blood Cells (RBC) carry oxygen from the lungs to tissues.
+Low RBC count may suggest anemia or blood loss.
+High RBC count may be seen in dehydration or certain bone marrow conditions.
+
+
+Total Leukocyte Count:
+Total Leukocyte Count measures the total number of white blood cells in blood.
+High levels may indicate infection, inflammation, or immune response.
+Low levels may increase susceptibility to infections.
+
+
+WBC:
+White Blood Cells (WBC) help the body fight infections.
+Elevated WBC levels often occur during infections or inflammation.
+Low WBC levels may be due to bone marrow issues or certain viral illnesses.
+
+
+Platelet Count:
+Platelets help in blood clotting and prevent excessive bleeding.
+Low platelet levels may increase bleeding risk.
+High platelet levels may increase clot formation risk.
+
+
+Hematocrit:
+Hematocrit measures the percentage of red blood cells in blood.
+Low hematocrit may indicate anemia.
+High hematocrit may occur in dehydration or certain blood disorders.
+
+
+PCV:
+Packed Cell Volume (PCV) represents the proportion of blood made up of red cells.
+Abnormal values may suggest anemia or dehydration.
+
+
+MCV:
+Mean Corpuscular Volume (MCV) measures the average size of red blood cells.
+Low MCV may indicate iron deficiency anemia.
+High MCV may suggest vitamin B12 or folate deficiency.
+
+
+MCH:
+Mean Corpuscular Hemoglobin (MCH) measures the amount of hemoglobin per red cell.
+Abnormal values may indicate different types of anemia.
+
+
+MCHC:
+Mean Corpuscular Hemoglobin Concentration (MCHC) measures hemoglobin concentration in red cells.
+Low levels may indicate iron deficiency.
+High levels are less common but may be linked to certain red cell disorders.
+
+
+RDW:
+Red Cell Distribution Width (RDW) measures variation in red blood cell size.
+High RDW may indicate mixed types of anemia.
+
+
+Neutrophils:
+Neutrophils are white blood cells that fight bacterial infections.
+High neutrophil count may indicate bacterial infection or inflammation.
+Low levels may increase infection risk.
+
+
+Lymphocyte:
+Lymphocytes help fight viral infections and regulate immunity.
+High levels may indicate viral infections.
+Low levels may occur during stress or immune suppression.
+
+
+Monocytes:
+Monocytes help remove dead cells and fight infection.
+High levels may occur during chronic infections or inflammation.
+Low levels are usually not clinically significant.
+
+
+Eosinophils:
+Eosinophils are involved in allergic reactions and parasitic infections.
+High levels may indicate allergies or parasitic infection.
+
+
+Basophils:
+Basophils participate in immune responses and allergic reactions.
+Elevated basophils may be linked to inflammatory or allergic conditions.
+
+
+Blood Sugar:
+Blood sugar (glucose) provides energy to body cells.
+High levels may suggest diabetes or stress response.
+Low levels may cause dizziness, weakness, or confusion.
+
+
+Fasting Blood Sugar:
+Fasting blood sugar measures glucose after overnight fasting.
+Elevated levels may indicate impaired glucose control.
+
+
+Postprandial Blood Sugar:
+Postprandial blood sugar measures glucose after meals.
+High levels may suggest poor blood sugar regulation.
+
+
+Cholesterol:
+Cholesterol is a fatty substance essential for cell structure.
+High cholesterol increases risk of heart disease and stroke.
+
+
+HDL:
+HDL is called “good cholesterol.”
+Higher HDL helps protect against heart disease.
+
+
+LDL:
+LDL is known as “bad cholesterol.”
+High LDL increases risk of artery blockage.
+
+
+Triglycerides:
+Triglycerides are fats stored in the body.
+High levels increase cardiovascular risk.
+
+
+Creatinine:
+Creatinine is a waste product filtered by kidneys.
+High levels may indicate reduced kidney function.
+
+
+Urea:
+Urea is a byproduct of protein metabolism.
+High levels may suggest kidney dysfunction or dehydration.
+
+
+Sodium:
+Sodium helps regulate fluid balance and nerve function.
+High or low sodium levels may affect brain and muscle function.
+
+
+Potassium:
+Potassium regulates heart and muscle function.
+Abnormal potassium levels may affect heart rhythm.
+
+
+Calcium:
+Calcium is important for bones, muscles, and nerve function.
+Abnormal levels may affect bone strength or muscle activity.
+
+
+Vitamin D:
+Vitamin D supports bone health and immune function.
+Low levels may weaken bones.
+High levels may cause calcium imbalance.
