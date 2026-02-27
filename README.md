@@ -16,16 +16,6 @@ AI-powered system to simplify medical lab reports into patient-friendly explanat
 Frontend: React + Tailwind  
 Backend: Flask + OCR + RAG + Groq  
 
-# Setup
 
-# Backend
-cd backend  
-pip install -r requirements.txt  
-python backend.py  
-
-# Frontend
-cd frontend  
-npm install  
-npm run dev  
 
 
